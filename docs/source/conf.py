@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Lumache-version-test'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
 release = '0.1'
-version = '0.1.0'
+version = '0.1.2'
 
 # -- General configuration
 
