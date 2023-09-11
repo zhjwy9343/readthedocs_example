@@ -6,8 +6,8 @@ project = 'Lumache-version-test'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
-release = '0.2'
-version = '0.2'
+release = '0.3'
+version = '0.3.0'
 
 # -- General configuration
 

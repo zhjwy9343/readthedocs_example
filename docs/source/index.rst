@@ -1,8 +1,8 @@
-Welcome to 0.2 Version documentation!
+Welcome to 0.3.0 Version documentation!
 ===================================
 
 **Test for version display**
-This is version 0.2
+This is version 0.3.0
 
 -------
 
